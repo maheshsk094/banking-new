@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="63" started-at="2022-09-29T06:56:15Z" finished-at="2022-09-29T06:56:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="63" started-at="2022-09-29T06:56:15Z" finished-at="2022-09-29T06:56:15Z">
+      <class name="TestNGpractice.ReadParamFromCmdLine">
+        <test-method status="PASS" signature="parameters()[pri:0, instance:TestNGpractice.ReadParamFromCmdLine@66a3ffec]" name="parameters" duration-ms="16" started-at="2022-09-29T12:26:15Z" finished-at="2022-09-29T12:26:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- parameters -->
+      </class> <!-- TestNGpractice.ReadParamFromCmdLine -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
